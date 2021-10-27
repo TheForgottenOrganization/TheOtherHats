@@ -2642,6 +2642,17 @@
             "reshasha": "992de32d1607f76950a08c169e2f365e",
             "reshashc": "789fde8ba5659e6f7206986129bc99c3",
             "resource": "Frostmage_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "(Shiny)MegaLucario57",
+            "climbresource": "Ghost_Buddy_climb_adaptive.png",
+            "condition": "None",
+            "name": "Ghost Buddy",
+            "package": "Community Hats",
+            "reshasha": "a92de32d1607f76950a08c169e2f365e",
+            "reshashc": "b89fde8ba5659e6f7206986129bc99c3",
+            "resource": "Ghost_Buddy_bounce_adaptive.png"
         }
     ]
 }
