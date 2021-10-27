@@ -2653,6 +2653,17 @@
             "reshasha": "a92de32d1607f76950a08c169e2f365e",
             "reshashc": "b89fde8ba5659e6f7206986129bc99c3",
             "resource": "Ghost_Buddy_bounce_adaptive.png"
+        },
+        {
+            "adaptive": false,
+            "author": "Mr Green",
+            "climbresource": "blind_climb.png",
+            "condition": "None",
+            "name": "Blind",
+            "package": "Community Hats",
+            "reshasha": "p92de32d1607f76950a08c169e2f365e",
+            "reshashc": "p89fde8ba5659e6f7206986129bc99c3",
+            "resource": "blind.png"
         }
     ]
 }
