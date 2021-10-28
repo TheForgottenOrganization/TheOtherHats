@@ -2664,6 +2664,52 @@
             "reshasha": "p92de32d1607f76950a08c169e2f365e",
             "reshashc": "p89fde8ba5659e6f7206986129bc99c3",
             "resource": "blind.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Mr Green",
+            "climbresource": "blindbyMrGreen_adaptive_climb.png",
+            "condition": "None",
+            "name": "Blind v2",
+            "package": "Community Hats",
+            "reshasha": "p92de32d16fdsqfdsfdsf169e2f365e",
+            "reshashc": "p89fdsqfg46845qsdf6986129bc99c3",
+            "resource": "blindbyMrGreen_adaptive.png"
+        },
+        {
+            "adaptive": true,
+            "author": "Mr Green",
+            "climbresource": "pikabyMrgreen_adaptive_climb.png",
+            "condition": "None",
+            "name": "Pikachu",
+            "package": "Community Hats",
+            "reshasha": "dfqdsf2d16fdsqfdsfdsf169e2f365e",
+            "reshashc": "p845646fg46845qsdf6986129bc99c3",
+            "resource": "pikabyMrgreen_adaptive.png"
+        },
+        {
+            "adaptive": false,
+            "author": "Keilwig",
+            "climbresource": "exoticbird_climb.png",
+            "condition": "None",
+            "name": "Exotic bird",
+            "package": "Community Hats",
+            "reshasha": "p92de32d1607f76950a08csdfsdfd365e",
+            "reshashc": "p89fde8ba5659e6f72gfgsf6129bc99c3",
+            "resource": "exoticbird.png"
+        },
+        {
+            "adaptive": false,
+            "bounce": true,
+            "author": "Keilwig",
+            "climbresource": "Antoinette_climb.png",
+            "backresource": "exoticbird_back.png",
+            "condition": "None",
+            "name": "Antoinette",
+            "package": "Community Hats",
+            "reshasha": "azefe32d1607f76950a08c169e2f365e",
+            "reshashc": "p89fde8basd59e6f7206986129bc99c3",
+            "resource": "Antoinette_bounce.png"
         }
     ]
 }
