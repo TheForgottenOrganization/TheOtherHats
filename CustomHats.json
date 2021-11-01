@@ -2689,6 +2689,17 @@
         },
         {
             "adaptive": false,
+            "author": "Mr Green",
+            "climbresource": "kenny_climb.png",
+            "condition": "None",
+            "name": "Kenny",
+            "package": "Mr Green Hats",
+            "reshasha": "1454ghsd16fdsqfdsfdsf169e2f365e",
+            "reshashc": "p845646fg46845qsdf698qrfgfd99c3",
+            "resource": "kenny.png"
+        },
+        {
+            "adaptive": false,
             "author": "Keilwig",
             "climbresource": "exoticbird_climb.png",
             "backresource": "exoticbird_back.png",
