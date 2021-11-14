@@ -33,17 +33,6 @@
             "resource": "shiba_bounce.png"
         },
         {
-            "author": "Bavari",
-            "bounce": true,
-            "climbresource": "cook_climb.png",
-            "condition": "None",
-            "name": "Cook",
-            "package": "Community Hats",
-            "reshasha": "b2ea80426b1006925d7c3d2059aac60a",
-            "reshashc": "a326ae78a39c427b3bfdbfd88aa7843a",
-            "resource": "cook_bounce.png"
-        },
-        {
             "author": "ZzzSleepy",
             "backresource": "LongBrown_back.png",
             "climbresource": "LongBrown_climb.png",
@@ -175,16 +164,6 @@
             "reshasha": "41b806c42ea18dcb802286664e2a2502",
             "reshashc": "9bc00cd9ab9482995b5a7e8e2aefc415",
             "resource": "TrafficCone_bounce.png"
-        },
-        {
-            "author": "Bavari",
-            "climbresource": "brainglass_climb.png",
-            "condition": "None",
-            "name": "Braini",
-            "package": "Community Hats",
-            "reshasha": "2f0951e3d388d11349192aa4305cf34d",
-            "reshashc": "5fd4389abc7450b909c5a19fe970aebf",
-            "resource": "brainglass.png"
         },
         {
             "author": "K3ndo",
@@ -684,29 +663,6 @@
             "resource": "Nephias.png"
         },
         {
-            "author": "bavari",
-            "bounce": true,
-            "climbresource": "pizzahat_climb.png",
-            "condition": "None",
-            "name": "I like pizza",
-            "package": "Community Hats",
-            "reshasha": "f5e50799f5bdfc2d14f8d9f886f3ad2d",
-            "reshashc": "4c59294fdbffbe7b57ca8ac7017c14dc",
-            "resource": "pizzahat_bounce.png"
-        },
-        {
-            "author": "bavari",
-            "backresource": "bubblebath_back.png",
-            "climbresource": "bubblebath_climb.png",
-            "condition": "None",
-            "name": "Bubble Bath",
-            "package": "Community Hats",
-            "reshasha": "599f7cf7334491f5724db844a28a1dae",
-            "reshashb": "1f9a08cd2af2e43644170e9d7b9e0b05",
-            "reshashc": "5feebe179399686d268fcc6a6dacf7be",
-            "resource": "bubblebath.png"
-        },
-        {
             "author": "Germi",
             "backresource": "French_back_bounce.png",
             "bounce": true,
@@ -901,18 +857,6 @@
             "reshashb": "104fd18d53b647672229c72072f28bad",
             "reshashc": "af75bc1f7e32774fbf3e365aaaf26d4e",
             "resource": "hoodie2_adaptive.png"
-        },
-        {
-            "author": "Bavari",
-            "backresource": "unge_back.png",
-            "climbresource": "unge_climb.png",
-            "condition": "None",
-            "name": "Unge",
-            "package": "Community Hats",
-            "reshasha": "0650e4462e339f94d635895b06954ccc",
-            "reshashb": "0b2fd2086c80c72971b6e613506531fd",
-            "reshashc": "8b831b4fd428d5004f7dd872a51da852",
-            "resource": "unge.png"
         },
         {
             "author": "k3ndo",
@@ -1124,18 +1068,6 @@
             "reshashc": "6b316354eae3edc8e2fe035a938ce4b8",
             "reshashf": "20a66ed59f8c2e736af57e5d3290132d",
             "resource": "Otter.png"
-        },
-        {
-            "author": "bavari",
-            "backresource": "regenbogenglas_back.png",
-            "climbresource": "regenbogenglas_climb.png",
-            "condition": "None",
-            "name": "Regenbogenglas",
-            "package": "Community Hats",
-            "reshasha": "dd3f1f5f7ae1ed90c2832c2309594aa1",
-            "reshashb": "c88c313b701be3f044767ebcfd1b0157",
-            "reshashc": "09e37c6ea969884ca41d8b880fe49ca9",
-            "resource": "regenbogenglas.png"
         },
         {
             "adaptive": true,
@@ -1784,17 +1716,6 @@
             "resource": "flutter_adaptive.png"
         },
         {
-            "author": "Bavari",
-            "bounce": true,
-            "climbresource": "donut_climb.png",
-            "condition": "None",
-            "name": "Donut",
-            "package": "Community Hats",
-            "reshasha": "9bd3ee2d018b7115f1c4af7ebd4bc320",
-            "reshashc": "6d0ded66e8f64bb78890522efac8a104",
-            "resource": "donut_bounce.png"
-        },
-        {
             "author": "Toni",
             "bounce": true,
             "climbresource": "octopus_climb.png",
@@ -1974,18 +1895,6 @@
             "reshashc": "4d30cb331c60c4af7d013e76938b7312",
             "reshashf": "d27c8f811dbec2c72eda23cd1384c82f",
             "resource": "chameleon_adaptive.png"
-        },
-        {
-            "author": "Bavari",
-            "backresource": "shorty_back.png",
-            "climbresource": "shorty_climb.png",
-            "condition": "None",
-            "name": "Shorty",
-            "package": "Community Hats",
-            "reshasha": "068ad1c23c4edebbacbb9508f6d5b908",
-            "reshashb": "3d3040f1e5d3117f5d511e7ad89f53b2",
-            "reshashc": "636a2e76853a608fc5b004d7a2f58273",
-            "resource": "shorty.png"
         },
         {
             "author": "Drakoni",
@@ -2728,6 +2637,16 @@
             "reshasha": "c45gfdgsfh4d9c3d86013f4bfec876eb",
             "reshashf": "3259d7485cgdfhgsrtgzrhghj3acef84",
             "resource": "pepitoming.png"
+        },
+        {
+            "author": "Mr Green", 
+            "adaptive": true,                               
+            "condition": "None",            
+            "name": "Sherlock",
+            "package": "Mr Green Hats",
+            "reshasha": "c45gfdgsfh4d9hdgfhgfhf4bfec876eb",
+            "reshashf": "3259d748gqsgfsggsrtgzrhghj3acef84",
+            "resource": "Sherlock_adaptive.png"
         }
     ]
 }
