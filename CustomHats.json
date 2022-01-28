@@ -2647,6 +2647,15 @@
             "reshasha": "c45gfdgsfh4d9hdgfhgfhf4bfec876eb",
             "reshashf": "3259d748gqsgfsggsrtgzrhghj3acef84",
             "resource": "Sherlock_adaptive.png"
+        },
+        {
+            "author": "Keilwig",                                
+            "condition": "None",            
+            "name": "Handicapming",
+            "package": "Keilwig Hats",
+            "reshasha": "c45gfdgsfgshjjqezrf46568fec876eb",
+            "reshashf": "3259d748frqg75d6f4dqs3f5q3acef84",
+            "resource": "Handicapming.png"
         }
     ]
 }
