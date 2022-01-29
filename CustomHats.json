@@ -2649,7 +2649,8 @@
             "resource": "Sherlock_adaptive.png"
         },
         {
-            "author": "Keilwig",                                
+            "author": "Keilwig",   
+            "adaptive": true,
             "condition": "None",            
             "name": "Handicapming",
             "package": "Keilwig Hats",
