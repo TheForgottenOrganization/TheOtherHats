@@ -3279,6 +3279,16 @@
             "resource": "pikabyMrgreen_adaptive.png"
         },
         {
+            "adaptive": false,
+            "author": "Mr Green",            
+            "condition": "None",
+            "name": "Scream",
+            "package": "Mr Green Hats",
+            "reshasha": "sdgqfshyidyyrqfdsfdsf169e2f365e",
+            "reshashc": "yjgf7687r68tzrrtezr9776854hdgf3",
+            "resource": "scream.png"
+        },
+        {
             "author": "Mr Green",
             "climbresource": "kenny_climb.png",
             "condition": "None",
