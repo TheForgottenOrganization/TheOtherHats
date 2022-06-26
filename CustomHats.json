@@ -3257,6 +3257,16 @@
             "resource": "blind.png"
         },
         {
+            "adaptive": false,
+            "author": "Mr Green",
+            "condition": "None",
+            "name": "Mr Green",
+            "package": "Mr Green Hats",
+            "reshasha": "p92de32d1607fgtufpmk8c169e2f365e",
+            "reshashc": "p89f5684356bhufsr206986129bc99c3",
+            "resource": "MrGreened.png"
+        },
+        {
             "adaptive": true,
             "author": "Mr Green",
             "climbresource": "blindbyMrGreen_adaptive_climb.png",
