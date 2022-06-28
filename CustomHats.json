@@ -3256,8 +3256,7 @@
             "reshashc": "p89fde8ba5659e6f7206986129bc99c3",
             "resource": "blind.png"
         },
-        {
-            "adaptive": false,
+        {            
             "author": "Mr Green",
             "condition": "None",
             "name": "Mr Green",
