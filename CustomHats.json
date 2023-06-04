@@ -3375,6 +3375,15 @@
             "reshashc": "p89f5684356bhufsr206986129bc99c3",
             "resource": "MrGreened.png"
         },
+        {            
+            "author": "Mr Green",
+            "condition": "None",
+            "name": "dali",
+            "package": "Mr Green Hats",
+            "reshasha": "p92ded1607fg32tufp69e2fmk8c1365e",
+            "reshashc": "p89f556bhu986fsr206129bc684399c3",
+            "resource": "dali.png"
+        },
         {
             "adaptive": true,
             "author": "Mr Green",
